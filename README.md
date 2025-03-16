@@ -1,2 +1,3 @@
-\Procesamiento de Señales de Radar FMCW en Banda X
+Procesamiento de Señales de Radar FMCW en Banda X.
+
 Este trabajo presenta la simulación de un radar FMCW en banda X. Se modela la señal chirp transmitida, la señal chirp recibida debido a la reflexión en un corner reflector ubicado a 150 metros con adición de ruido gaussiano y la señal de frecuencia intermedia mediante la mezcla de los chirps transmitidos y recibidos. Se describe también el proceso de filtrado y amplificación de la señal de frecuencia intermedia IF mediante el amplificador de video, seguido de su cuantización con una resolución de 12 bits y un rango de 1V full-scale. Finalmente, se presenta la estimación de la distancia al objetivo, la resolución en rango y el máximo alcance sin ambigüedades.
